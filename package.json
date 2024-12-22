@@ -1,0 +1,11 @@
+{
+  "name": "entregafinal",
+  "version": "1.0.0",
+  "description": "Entrega final del proyecto de clase, creación de api para un ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Jaimes",
+  "license": "ISC"
+}
