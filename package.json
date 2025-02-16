@@ -1,7 +1,7 @@
 {
   "name": "entregafinal",
   "version": "1.0.0",
-  "description": "Entrega final del proyecto de clase, creación de api para un ecommerce",
+  "description": "PreEntrega para curso de backend 2 agregando la ruta de usuario y autenticación por medio de JWT y passport",
   "main": "index.js",
   "type": "module",
   "scripts": {
